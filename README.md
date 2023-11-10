@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data science.jpeg" width="524px" height="324px">
+  <img src="data science.jpg" width="524px" height="324px">
 </p>
 
 ### Hi there 👋 MY NAME IS INDRI
