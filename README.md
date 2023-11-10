@@ -1,4 +1,4 @@
- align="center">
+<p align="center">
   <img src="data science.jpeg" width="524px" height="324px">
 </p>
 
