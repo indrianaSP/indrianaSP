@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning about Magister Innovation Regional
 - 🤔 I’m looking for help with learning python, machine learning and AI
 - 
-- 📫 How to reach me: ...
+- 📫 How to reach me: **insyapobit2@gmail.com**
 
