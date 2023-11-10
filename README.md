@@ -1,8 +1,7 @@
 ### Hi there 👋 MY NAME IS INDRI
 
 - 🔭 I’m currently working as Civil Servant at Departement Cooperative, SMEs, Trade and Industri of Cirebon City
-
-- 
+-     Now i'm learning in regional innovatian, machine learning, and AI
 **indrianaSP/indrianaSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
